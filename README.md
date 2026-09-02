@@ -1,23 +1,23 @@
 <div align="center">
-  <h1>Hi, I'm Guilherme Tintore </h1>
+  <h1>Hi, I'm Guilherme Tintore 👋</h1>
   <h3>Cyber-Physical Systems Developer | Social Leader | Maker</h3>
   <p><i>Building at the intersection of Software Engineering, Artificial Intelligence, and Social Impact.</i></p>
 </div>
 
 ---
 
-###  About Me
+### 👨‍💻 About Me
 I'm an 11th-grade student and Systems Development Tech student from Brazil. I use my academic foundation at SENAI (data modeling, software architecture) to build solutions for real human problems, focusing on accessible HealthTech and inclusive robotics.
 
-*    **Currently Researching:** Computer vision algorithms (MVP) for predictive Alzheimer's screening via retinal biomarkers.
-*    **Building:** Low-cost educational robotics and AI-powered literary assistants.
-*    **Social Impact:** Member of Anti-Misogyny Campaigns, Youth Coordinator (IAM - Humanitarian Aid), and volunteer tech mentor.
-*   **Select Honors:** 1st Place Int'l FIRST Lego League Open California | National Runner-up MOS Excel | 1st & 3rd Place Makerthon SESI.
-*    **Reach me at:** guilherme.r.tintore@gmail.com
+*   🔭 **Currently Researching:** Computer vision algorithms (MVP) for predictive Alzheimer's screening via retinal biomarkers.
+*   🚀 **Building:** Low-cost educational robotics and AI-powered literary assistants.
+*   🤝 **Social Impact:** Elected Director of Anti-Misogyny Campaigns, Youth Coordinator (IAM - Humanitarian Aid), and volunteer tech mentor.
+*   🏆 **Select Honors:** 1st Place Int'l FIRST Lego League Open California | National Runner-up MOS Excel | 1st & 3rd Place Makerthon SESI.
+*   📫 **Reach me at:** guilherme.r.tintore@gmail.com
 
 ---
 
-### Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 **AI, Machine Learning & Vision** <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -39,7 +39,7 @@ I'm an 11th-grade student and Systems Development Tech student from Brazil. I us
 
 ---
 
-###  Featured Projects
+### 🚀 Featured Projects
 
 #### 1. Predictive Alzheimer's Vision Triage (HealthTech)
 *Independent Researcher & Computer Vision Developer*
@@ -47,12 +47,12 @@ I'm an 11th-grade student and Systems Development Tech student from Brazil. I us
 *   **Goal:** Developing the logical core (software MVP) to track beta-amyloid biomarkers in the retina. The long-term roadmap involves embedding this algorithm into a low-cost proprietary optical device for democratized, early-stage Alzheimer's screening.
 
 #### 2. Project Aris (AI Library Assistant)
-*Hardware Designer & AI Integrator |  3rd Place Makerthon SESI*
+*Hardware Designer & AI Integrator | 🥉 3rd Place Makerthon SESI*
 *   **Tech:** Llama 3, Hugging Face, Python, Fusion 360, NLP.
 *   **Goal:** Engineered a 3D-printed robotic assistant with Speech-to-Text capabilities to provide personalized book curation. Field-tested and validated with 414 students, achieving a 97.8% user acceptance rate.
 
 #### 3. LéiaLab (Inclusive Robotics IDE)
-*Team Captain & Lead Developer |  1st Place Makerthon SESI*
+*Team Captain & Lead Developer | 🥇 1st Place Makerthon SESI*
 *   **Tech:** Generative AI, Visual Blocks, C++.
 *   **Goal:** Created an inclusive IDE integrated with a Pepper humanoid robot to provide real-time feedback. Currently adapting the architecture for low-cost hardware to scale into public schools.
 
@@ -63,7 +63,7 @@ I'm an 11th-grade student and Systems Development Tech student from Brazil. I us
 
 ---
 
-###  Give Back & Leadership
+### 🌍 Give Back & Leadership
 *I believe technology is only as good as the community it uplifts.*
 
 *   **Advocacy & Mental Health:** Elected Director of Anti-Misogyny Campaigns at school and active mediator in the "Juventudes em Diálogos" collective (anti-bullying and peer-to-peer mental health support).
@@ -73,5 +73,3 @@ I'm an 11th-grade student and Systems Development Tech student from Brazil. I us
 <p align="center">
   <i>"Scaling social impact through low-cost biomedical engineering and inclusive robotics."</i>
 </p>
-
-
